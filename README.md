@@ -2,9 +2,7 @@
 
 This repository hosts a bunch of beginner level JavaScript projects that use a wide-variety of JS topics and concepts. Feel free to fork and create a PR with more such projects. 
 
-If you are a beginner, pick up the projects in the following manner:
-
-This repository has two Porjects - 
+If you are a beginner, pick up the projects in the following manner:- 
 
 #### 1. Number Counter App
 This is a basic counter with three buttons - Decrease, Increase, Reset. Get going!
