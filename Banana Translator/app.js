@@ -18,7 +18,7 @@ const translate = () => {
         .then(response => response.json())
         .then(json => showOutput(json))
         .catch(showError)
-
+};
 
 const showOutput = (text) => {
     console.log(text)
