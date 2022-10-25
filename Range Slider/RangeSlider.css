@@ -1,0 +1,32 @@
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: sans-serif;
+        flex-direction: column;
+        gap: 16px;
+        background: #000;
+      }
+
+      .output {
+        height: 150px;
+        width: 150px;
+        background: #37b24d;
+      }
+
+      input {
+        cursor: pointer;
+        width: 200px;
+      }
+
+      .result {
+        font-size: 30px;
+      }
