@@ -16,3 +16,6 @@ https://sushrutmishra27.github.io/JavaScript-In-the-Browser/
 
 #### 4. Modal Popup
 This is modal project. Opens up a modal on click of button and closes it when clicked 'X'
+
+#### 5. Range Slider
+This is a simple slider that takes input in form or range and results is resizing of box.
