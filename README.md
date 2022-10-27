@@ -19,3 +19,6 @@ This is modal project. Opens up a modal on click of button and closes it when cl
 
 #### 5. Range Slider
 This is a simple slider that takes input in form or range and results is resizing of box.
+
+#### 6. Random Hex Color
+Generates random colors on the click of button. Displye the Hex value too.
